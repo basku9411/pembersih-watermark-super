@@ -1,3 +1,4 @@
 streamlit
-easyocr
+streamlit-cropper
+pillow
 opencv-python-headless
